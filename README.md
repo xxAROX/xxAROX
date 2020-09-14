@@ -2,6 +2,18 @@
 
 Discord: <b>[xxAROX#9881](https://discord.bio/p/xxAROX)</b>
 
+---
+![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=xxAROX&hide=shell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![IMAGE#002](https://github-readme-stats.vercel.app/api?username=xxAROX&hide=prs&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+---
+### Repos:
+[![IMAGE#003](https://github-readme-stats.vercel.app/api/pin/?username=xxAROX&show_owner=true&repo=SkinStealer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xxAROX/SkinStealer)
+[![IMAGE#004](https://github-readme-stats.vercel.app/api/pin/?username=xxAROX&show_owner=true&repo=BetterParticles&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xxAROX/BetterParticles)
+[![IMAGE#005](https://github-readme-stats.vercel.app/api/pin/?username=xxAROX&show_owner=true&repo=BetterEmotes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xxAROX/BetterEmotes)
+[![IMAGE#006](https://github-readme-stats.vercel.app/api/pin/?username=xxAROX&show_owner=true&repo=FishingRod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/xxAROX/FishingRod)
+
+
+
 ___
 [![PayPal](https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square)](https://paypal.me/xxarox)
 [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Farox_xx&style=flat-square)](https://www.patreon.com/arox_xx)
