@@ -19,7 +19,7 @@ ___
 [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Farox_xx&style=flat-square)](https://www.patreon.com/arox_xx)
 [![Github Follow](https://img.shields.io/github/followers/xxarox?label=Follow&style=social)](https://github.com/xxarox)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arox_xx?label=Follow&style=social)](https://twitter.com/arox_xx)
-<a href="https://stimomc.de/discord"><img src="https://discordapp.com/api/guilds/664707991974576137/embed.png" alt="Discord server"/></a>
+<!--a href="https://stimomc.de/discord"><img src="https://discordapp.com/api/guilds/664707991974576137/embed.png" alt="Discord server"/></a-->
 
 <!--
 **xxAROX/xxAROX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
