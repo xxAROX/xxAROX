@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Discord: <b>[xxAROX#9881](https://discord.bio/p/xxAROX)</b>
+XBOX-Live: <b>[Aromastoffe](https://account.xbox.com/de-de/Profile?gamerTag=Aromastoffe)</b>
+XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxAROX)</b>
 
 ---
 ![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=xxAROX&hide=shell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
