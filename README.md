@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Discord: <b>[xxAROX#9881](https://discord.bio/p/xxAROX)</b>
+
 XBOX-Live: <b>[Aromastoffe](https://account.xbox.com/de-de/Profile?gamerTag=Aromastoffe)</b>
+
 XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxAROX)</b>
 
 ---
