@@ -6,6 +6,8 @@ XBOX-Live: <b>[Aromastoffe](https://account.xbox.com/de-de/Profile?gamerTag=Arom
 
 XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxAROX)</b>
 
+XBOX-Live: <b>[Janosaurus5992](https://account.xbox.com/de-de/Profile?gamerTag=Janosaurus5992)</b>
+
 ---
 ![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=xxAROX&hide=shell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![IMAGE#002](https://github-readme-stats.vercel.app/api?username=xxAROX&hide=prs&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
