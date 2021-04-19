@@ -19,14 +19,6 @@ XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxAROX)</
 
 XBOX-Live: <b>[Janosaurus5992](https://account.xbox.com/de-de/Profile?gamerTag=Janosaurus5992)</b>
 
-```
-      A        A        A        A        A        A        A        A        A        A        A        A        A    
-     /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\   
-    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\  
-   ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\ 
-   '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\' 
-     'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'   
-```
 
 ### Tools
 <img alt="IntelliJ IDEA" src="" width="50" height="50"></img>
@@ -37,14 +29,7 @@ XBOX-Live: <b>[Janosaurus5992](https://account.xbox.com/de-de/Profile?gamerTag=J
 <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="50" height="50"></img>
 <!-- <img alt="" src="" width="50" height="50"></img> -->
 
-```
-      A        A        A        A        A        A        A        A        A        A        A        A        A    
-     /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\      /I\   
-    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\    //I\\  
-   ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\  ///I\\\ 
-   '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\'  '//I\\' 
-     'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'      'I'   
-```
+
 ### Languages
 <img alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50"></img>
 <img alt="SQL" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" width="50" height="50"></img>
