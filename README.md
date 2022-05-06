@@ -10,6 +10,8 @@ XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxAROX)</
 
 XBOX-Live: <b>[xxJqn](https://account.xbox.com/de-de/Profile?gamerTag=xxJqn)</b>
 
+Wallet-Address: 0x9a01c46D2F40f00043629D6F8Ed7107bCdFfad31
+
 
 ### My tools
 <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="50" height="50"></img>
