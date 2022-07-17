@@ -28,6 +28,7 @@ Wallet-Address: 0x9a01c46D2F40f00043629D6F8Ed7107bCdFfad31
 <img alt="SQL" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" width="50" height="50"></img>
 <img alt="Java" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="50" height="50"></img>
 <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50">
+<img alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="50" height="50">
 <img alt="Node JS" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="50" height="50"></img>
 <img alt="HTML" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programmiersprachen-symbol-by-vexels.png" width="50" height="50"></img>
 <!-- <img alt="" src="" width="50" height="50"></img> -->
