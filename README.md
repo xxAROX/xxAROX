@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Discord: <b>[xxAROX#9881](https://discord.bio/p/xxAROX)</b>
+[![Discord Presence](https://lanyard.cnrad.dev/api/375584947307675658)](https://discord.bio/p/xxAROX)
 
 Spotify: [Aromastoffe](https://open.spotify.com/user/fok8me6he4gu6wzb2oyiw4whq)
 
@@ -43,5 +42,5 @@ Wallet-Address: 0x9a01c46D2F40f00043629D6F8Ed7107bCdFfad31
 
 [![PayPal](https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square)](https://paypal.me/xxarox)<!-- [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Farox_xx&style=flat-square)](https://www.patreon.com/arox_xx) -->
 [![Github Follow](https://img.shields.io/github/followers/xxarox?label=Follow&style=social)](https://github.com/xxarox)
-[![Twitter Follow](https://img.shields.io/twitter/follow/arox_xx?label=Follow&style=social)](https://twitter.com/arox_xx)
-[![CosX](https://discordapp.com/api/guilds/915188007693352960/embed.png)](https://discord.cosmetic.x.de)
+[![Twitter Follow](https://img.shields.io/twitter/follow/xx_arox?label=Follow&style=social)](https://twitter.com/xx_arox)
+<!--[![CosX](https://discordapp.com/api/guilds/915188007693352960/embed.png)](https://discord.cosmetic.x.de)-->
