@@ -82,7 +82,12 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 </p>
 
+### My Spotify activity
 <br>
 <div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=fok8me6he4gu6wzb2oyiw4whq&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fok8me6he4gu6wzb2oyiw4whq&cover_image=true&theme=default" /></a></div>
+
+### My Discord activity
 <div align="center"><a href="https://discord.bio/p/xxAROX" target="_blank"><img src="https://lanyard.cnrad.dev/api/375584947307675658" /></a></div>
-<!---div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=fok8me6he4gu6wzb2oyiw4whq" /></div><br-->
+
+<!-- ### My Spotify recent activity -->
+<!--div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=fok8me6he4gu6wzb2oyiw4whq" /></div><br-->
