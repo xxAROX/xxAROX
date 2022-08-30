@@ -1,46 +1,88 @@
-### Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/375584947307675658)](https://discord.bio/p/xxAROX)
-
-Spotify: [Aromastoffe](https://open.spotify.com/user/fok8me6he4gu6wzb2oyiw4whq)
-
-XBOX-Live: <b>[Aromastoffe](https://account.xbox.com/de-de/Profile?gamerTag=Aromastoffe)</b>
-
-XBOX-Live: <b>[xxAROX](https://account.xbox.com/de-de/Profile?gamerTag=xxAROX)</b>
-
-XBOX-Live: <b>[xxJqn](https://account.xbox.com/de-de/Profile?gamerTag=xxJqn)</b>
-
-Wallet-Address: 0x9a01c46D2F40f00043629D6F8Ed7107bCdFfad31
+<div align="center">
+<table>
+    <tr>
+      <th>Platform</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>Spotify</td>
+      <td><a href="https://open.spotify.com/user/fok8me6he4gu6wzb2oyiw4whq" target="_blank">Aromastoffe</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px"></td>
+      <td><a href="https://account.xbox.com/de-de/Profile?gamerTag=Aromastoffe" target="_blank">Aromastoffe</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px"></td>
+      <td><a href="https://account.xbox.com/de-de/Profile?gamerTag=xxAROX" target="_blank">xxAROX</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/xbox.svg" alt="xbox" style="vertical-align:top; margin:6px 4px"></td>
+      <td><a href="https://account.xbox.com/de-de/Profile?gamerTag=xxJqn" target="_blank">xxJqn</a></td>
+    </tr>
+    <tr>
+      <td>Wallet-Address</td>
+      <td>0x9a01c46D2F40f00043629D6F8Ed7107bCdFfad31</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://www.instagram.com/xx_arox" target="_blank">xx_arox</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://www.instagram.com/priv_arox" target="_blank">priv_arox</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://twitter.com/xx_arox" target="_blank">xx_arox</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://soundcloud.com/aromastoffe" target="_blank">Aromastoffe</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://snapchat.com/add/xx_arox" target="_blank">xx_arox</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://www.reddit.com/user/xx_arox" target="_blank">xx_arox</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://steamcommunity.com/id/xxarox" target="_blank">xxarox</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
+      <td><a href="https://www.tiktok.com/@xx_arox" target="_blank">xx_arox</a></td>
+    </tr>
+</table>
+</div><br>
 
 
 ### My tools
-<img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="50" height="50"></img>
-<img alt="PhpStorm" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" width="50" height="50"></img>
-<img alt="Bitvise SSH" src="https://img.utdstc.com/icon/03a/b1f/03ab1fe793a6e8e88de31c426efb4a8a62d3f86d4e44a3f93292ebf820439237:200" width="50" height="50"></img>
-<img alt="Spotify" src="https://developer.spotify.com/assets/branding-guidelines/icon1@2x.png" width="50" height="50"></img>
-<img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="50" height="50"></img>
-<!-- <img alt="" src="" width="50" height="50"></img> -->
-
-
-
-### Used languages
-<img alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50"></img>
-<img alt="SQL" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" width="50" height="50"></img>
-<img alt="Java" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="50" height="50"></img>
-<img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50">
-<img alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="50" height="50">
-<img alt="Node JS" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="50" height="50"></img>
-<img alt="HTML" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programmiersprachen-symbol-by-vexels.png" width="50" height="50"></img>
-<!-- <img alt="" src="" width="50" height="50"></img> -->
-
-
-![stats_Used languages from Github](https://github-readme-stats.vercel.app/api/top-langs/?username=xxAROX&hide=shell)
-
-![stats_activity](https://github-readme-stats.vercel.app/api?username=xxAROX&hide=prs&count_private=true&show_icons=true)
+<p align="left">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+</p>
 
 
 
 
-[![PayPal](https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square)](https://paypal.me/xxarox)<!-- [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Farox_xx&style=flat-square)](https://www.patreon.com/arox_xx) -->
-[![Github Follow](https://img.shields.io/github/followers/xxarox?label=Follow&style=social)](https://github.com/xxarox)
-[![Twitter Follow](https://img.shields.io/twitter/follow/xx_arox?label=Follow&style=social)](https://twitter.com/xx_arox)
-<!--[![CosX](https://discordapp.com/api/guilds/915188007693352960/embed.png)](https://discord.cosmetic.x.de)-->
+### My skills
+<p align="left">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+</p>
+
+<br>
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=fok8me6he4gu6wzb2oyiw4whq&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fok8me6he4gu6wzb2oyiw4whq&cover_image=true&theme=default" /></a></div>
+<div align="center"><a href="https://discord.bio/p/xxAROX" target="_blank"><img src="https://lanyard.cnrad.dev/api/375584947307675658" /></a></div>
+<!---div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=fok8me6he4gu6wzb2oyiw4whq" /></div><br-->
