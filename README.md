@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
-      <td><a href="https://www.tiktok.com/@xx_arox" target="_blank">aromastoffe</a></td>
+      <td><a href="https://www.tiktok.com/@aromastoffe" target="_blank">aromastoffe</a></td>
     </tr>
 </table>
 </div><br>
