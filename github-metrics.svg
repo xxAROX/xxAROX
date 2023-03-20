@@ -321,11 +321,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.0509088431431" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.0509088431431" y="0" width="10.70718082528581" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7580896684289" y="0" width="0.13839213311593904" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.89648180154484" y="0" width="0.09888305524073475" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.9953648567856" y="0" width="0.004635143214409441" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.0552571674694" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.0552571674694" y="0" width="10.702928573278605" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.758185740748" y="0" width="0.1383371720355738" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8965229127836" y="0" width="0.09884378480372737" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.9953666975873" y="0" width="0.00463330241267472" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2187,7 +2187,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2023, 14:18:37 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Mar 2023, 15:09:15 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
