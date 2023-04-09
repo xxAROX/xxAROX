@@ -98,5 +98,5 @@
 # My Discord activity
 <div align="center"><a href="https://discord.bio/p/xxAROX" target="_blank"><img src="https://lanyard.cnrad.dev/api/375584947307675658" /></a></div>
 
-# My Spotify recent activity
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=fok8me6he4gu6wzb2oyiw4whq" /></div><br>
+<!-- # My Spotify recent activity
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=fok8me6he4gu6wzb2oyiw4whq" /></div><br-->
