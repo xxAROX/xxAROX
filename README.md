@@ -23,20 +23,8 @@
       <td><a href="https://account.xbox.com/de-de/Profile?gamerTag=xxJqn" target="_blank">xxJqn</a></td>
     </tr>
     <tr>
-      <td>Wallet-Address</td>
-      <td>0x9a01c46D2F40f00043629D6F8Ed7107bCdFfad31</td>
-    </tr>
-    <tr>
       <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
       <td><a href="https://www.instagram.com/xx_arox" target="_blank">xx_arox</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-      <td><a href="https://www.instagram.com/priv_arox" target="_blank">priv_arox</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-      <td><a href="https://twitter.com/xx_arox" target="_blank">xx_arox</a></td>
     </tr>
     <tr>
       <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
@@ -47,16 +35,8 @@
       <td><a href="https://snapchat.com/add/xx_arox" target="_blank">xx_arox</a></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
-      <td><a href="https://www.reddit.com/user/xx_arox" target="_blank">xx_arox</a></td>
-    </tr>
-    <tr>
       <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
       <td><a href="https://steamcommunity.com/id/xxarox" target="_blank">xxarox</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
-      <td><a href="https://www.tiktok.com/@aromastoffe" target="_blank">aromastoffe</a></td>
     </tr>
 </table>
 </div><br>
