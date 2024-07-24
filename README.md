@@ -54,7 +54,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="vertical-align:top; margin:6px 4px">
     
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudiocode.svg" alt="vsc" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vsc" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
 </p>
 
@@ -73,12 +73,5 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
 </p>
 
-# My Spotify activity
-<br>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=fok8me6he4gu6wzb2oyiw4whq&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fok8me6he4gu6wzb2oyiw4whq&cover_image=true&theme=default" /></a></div>
-
 # My Discord activity
 <div align="center"><a href="https://discord.bio/p/xxAROX" target="_blank"><img src="https://lanyard.cnrad.dev/api/375584947307675658" /></a></div>
-
-<!-- # My Spotify recent activity
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=fok8me6he4gu6wzb2oyiw4whq" /></div><br-->
