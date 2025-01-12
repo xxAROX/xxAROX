@@ -1600,7 +1600,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.57m out of 153m users</span>
+                                    <span class="gh">ranked 1.57m out of 152m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">33</div>
                                     </div>
@@ -1811,7 +1811,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 375k out of 153m users</span>
+                                    <span class="gh">ranked 375k out of 152m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">40</div>
                                     </div>
@@ -1894,7 +1894,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.54m out of 233m repositories</span>
+                                    <span class="gh">ranked 1.54m out of 235m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2009,7 +2009,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 766k out of 233m repositories</span>
+                                    <span class="gh">ranked 766k out of 235m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -2164,7 +2164,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2025, 21:11:00 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 22:09:02 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
